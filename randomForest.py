@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct 22 15:10:26 2015
-
+tutorial on website:
+http://blog.yhathq.com/posts/random-forests-in-python.html
 @author: Dan
 """
 
